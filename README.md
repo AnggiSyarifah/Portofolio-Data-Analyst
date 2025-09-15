@@ -1,4 +1,5 @@
 # Portofolio-Data-Analyst
 Terdapat tiga projek:
-1. Melakukan data cleansing, memvisualisasikannya dan Forecasting data penjualan untuk 30 hari ke depan
-2. Melak
+1. Mengolah 1232 kumpulan gambar uang kertas yang ditangkap dalam berbagai kondisi, baik yang asli maupun tiruan. 
+2. Membantu perencanaan stok di masa depan dilakukan analisis data penjualan toko untuk menemukan produk dan wilayah terlaris. Melakukan data cleansing, memvisualisasikannya dan Forecasting menggunakan XGBRegressor untuk data penjualan untuk 90 hari ke depan
+3. Mengoptimalkan manajemen stok dilakukan analisis data penjualan harian untuk menemukan pola mingguan dan pengaruh harga terhadap penjualan. Menghasilkan prediksi penjualan mingguan untuk 8 bulan ke depan dengan menggunakan model ETS
